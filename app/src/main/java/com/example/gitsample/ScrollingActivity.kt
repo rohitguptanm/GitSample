@@ -19,6 +19,8 @@ class ScrollingActivity : AppCompatActivity() {
             Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                     .setAction("Action", null).show()
         }
+        // some text changes did in feature/branch1
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
